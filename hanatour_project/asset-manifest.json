@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ryuduckhyeon/react/static/css/main.bf3ca480.css",
-    "main.js": "/ryuduckhyeon/react/static/js/main.ab89d33a.js",
-    "index.html": "/ryuduckhyeon/react/index.html",
-    "main.bf3ca480.css.map": "/ryuduckhyeon/react/static/css/main.bf3ca480.css.map",
-    "main.ab89d33a.js.map": "/ryuduckhyeon/react/static/js/main.ab89d33a.js.map"
+    "main.css": "/react/hanatour_project/static/css/main.bf3ca480.css",
+    "main.js": "/react/hanatour_project/static/js/main.ab89d33a.js",
+    "index.html": "/react/hanatour_project/index.html",
+    "main.bf3ca480.css.map": "/react/hanatour_project/static/css/main.bf3ca480.css.map",
+    "main.ab89d33a.js.map": "/react/hanatour_project/static/js/main.ab89d33a.js.map"
   },
   "entrypoints": [
     "static/css/main.bf3ca480.css",
